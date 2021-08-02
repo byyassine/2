@@ -18,7 +18,7 @@ body {
   align-items: center;
   text-align: center;
   height: 100vh;
-  background: #F44336;
+  background: #FFFFF;
 }
 body #password-generator {
   padding: 2rem;
