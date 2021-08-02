@@ -18,12 +18,12 @@ body {
   align-items: center;
   text-align: center;
   height: 100vh;
-  background: #FFFFF;
+  background: ##dfecf2;
 }
 body #password-generator {
   padding: 2rem;
   margin: 0 auto;
-  width: 500px;
+  width: 700px;
   border-radius: 3px;
   box-shadow: 0 0 2px #1f1f1f;
   border: 3px solid #d5d4ff;
